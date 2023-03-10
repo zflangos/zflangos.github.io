@@ -1,0 +1,47 @@
+body {
+	background-color: #CFD6F1;
+}
+
+h1 {
+	color: #5E0035;
+	font-size: 70px;
+	font-family: "Times New Roman", serif;
+	margin-top: 5px;
+}
+h3{
+	color: #5E0035;
+	margin-left: 220px;
+	margin-top: 50px;
+	font-size: 40px;
+	font-family: "Times New Roman", serif;
+}
+
+h2{
+	color: #5E0035;
+	font-family: "Times New Roman", serif;
+	font-size: 50px;
+}
+
+h5{
+	color: #5E0035;
+	font-size:20px;
+}
+
+ul{
+	color: #113F67;
+}
+p {
+	color:#113F67;
+}
+
+i{
+	color:#113F67
+}
+nav{
+    color: #5E0035;
+    margin-left: 400px;
+    margin-top: 40px;
+    padding-top: 20px;
+    font-size: 30px;
+    font-family: "Times New Roman", serif;
+}
